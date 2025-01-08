@@ -27,3 +27,26 @@ h2 {
 }
 
 
+.image-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:10px;
+  width:20%;
+}
+
+.info {
+  padding:12px;
+}
+
+.image-card p {
+  font-size: 14px;
+}
+
+.image-card h3 {
+  margin-bottom: 10px;
+}
+
+.image-card img {
+  width: 68%;
+}
